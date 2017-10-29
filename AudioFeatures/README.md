@@ -1,1 +1,1 @@
-Some audio processing algorithms.
+Some audio processing algorithms for feature extraction.
